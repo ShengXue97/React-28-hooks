@@ -79,7 +79,7 @@ const useHttp = (dispatchIngredient) => {
         isLoading: httpState.loading,
         error: httpState.error,
         sendRequest: sendRequest,
-        clearError: clearError
+        clearError: clearError,
     };
 };
 
