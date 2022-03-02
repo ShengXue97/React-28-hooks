@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/static/css/main.2ff2c3d5.chunk.css",
-    "main.js": "/static/js/main.83f2e634.chunk.js",
-    "main.js.map": "/static/js/main.83f2e634.chunk.js.map",
-    "runtime~main.js": "/static/js/runtime~main.a8a9905a.js",
-    "runtime~main.js.map": "/static/js/runtime~main.a8a9905a.js.map",
-    "static/js/2.d612d8b9.chunk.js": "/static/js/2.d612d8b9.chunk.js",
-    "static/js/2.d612d8b9.chunk.js.map": "/static/js/2.d612d8b9.chunk.js.map",
-    "index.html": "/index.html",
-    "precache-manifest.daedddb46c7ea44c29ae611733e9d62c.js": "/precache-manifest.daedddb46c7ea44c29ae611733e9d62c.js",
-    "service-worker.js": "/service-worker.js",
-    "static/css/main.2ff2c3d5.chunk.css.map": "/static/css/main.2ff2c3d5.chunk.css.map"
+    "main.css": "/React-28-hooks/static/css/main.2ff2c3d5.chunk.css",
+    "main.js": "/React-28-hooks/static/js/main.83f2e634.chunk.js",
+    "main.js.map": "/React-28-hooks/static/js/main.83f2e634.chunk.js.map",
+    "runtime~main.js": "/React-28-hooks/static/js/runtime~main.76d5d7ac.js",
+    "runtime~main.js.map": "/React-28-hooks/static/js/runtime~main.76d5d7ac.js.map",
+    "static/js/2.d612d8b9.chunk.js": "/React-28-hooks/static/js/2.d612d8b9.chunk.js",
+    "static/js/2.d612d8b9.chunk.js.map": "/React-28-hooks/static/js/2.d612d8b9.chunk.js.map",
+    "index.html": "/React-28-hooks/index.html",
+    "precache-manifest.f34af1bdbbb61cbc4b099372c965026f.js": "/React-28-hooks/precache-manifest.f34af1bdbbb61cbc4b099372c965026f.js",
+    "service-worker.js": "/React-28-hooks/service-worker.js",
+    "static/css/main.2ff2c3d5.chunk.css.map": "/React-28-hooks/static/css/main.2ff2c3d5.chunk.css.map"
   }
 }
